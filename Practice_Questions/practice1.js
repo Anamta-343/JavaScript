@@ -18,3 +18,5 @@ const profile={
     bio : "Entrepreneur Apna College Ex-Microsoft , DRDO To educate someone is the highest privilege",
 };
 console.log(profile);
+// procastinate lethargic
+// fumble    

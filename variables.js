@@ -31,15 +31,15 @@ console.log(myAge);
 console.log(totalPrice);
 console.log(pi);
 
-let a;
-console.log(a);
+let c;
+console.log(c);
 
 // Block of code
 {
-    let b=5;
-    console.log(b);
+    let b1=5;
+    console.log(b1);
 }
 {
-    let b=10;
-    console.log(b);
+    let b2=10;
+    console.log(b2);
 }
