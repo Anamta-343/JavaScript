@@ -18,7 +18,7 @@ console.log(isFollow);
 // var name="Tony Stark";
 // var myAge=24;
 
-// let
+// let (Modern JS)
 let name="Tony Stark";
 let myAge=24;
 let totalPrice=10000;
@@ -43,3 +43,5 @@ console.log(c);
     let b2=10;
     console.log(b2);
 }
+
+
